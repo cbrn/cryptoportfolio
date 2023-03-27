@@ -1,4 +1,4 @@
-# cryptoportfolio
-Proyecto inspirado en Criptomonedas basado en Next.JS (ReactJS) más la API de CoinGecko.
-En construcción, no terminado.
+# cryptostats
+Cryptocurrency inspired project based on Next.JS (ReactJS) plus CoinGecko API.
+Under construction, not finished.
 ![Alt text](Captura.PNG)
